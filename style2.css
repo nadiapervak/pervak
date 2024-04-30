@@ -22,6 +22,7 @@ nav{
 .d{
     display: flex;
     justify-content:space-around;
+    margin-top: 20px;
 }
 .d1{
     display: flex;
