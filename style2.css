@@ -1,0 +1,255 @@
+body {
+    font-family: pangolin;
+}
+header {
+    background: url("https://learn.logikaschool.com/uploads/student/1802227/661eacfbbb3e7.jpg");
+    height: 100vh;
+    background-size: cover ;
+    background-position: center;    
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+}
+header a{
+    font-size: 30px;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.d{
+    display: flex;
+    justify-content:space-around;
+}
+.d1{
+    display: flex;
+    justify-content:space-around;
+}
+.k1{
+width: 360px;
+height: 400px;
+background: #E76F6F;
+border-radius: 20px;
+}
+.f1{
+    height: 250px;
+    width: 250px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+.z1{
+    text-align: center;
+    margin:auto;
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    border: 5px solid rgba(109, 25, 25, 1);
+}
+.z1:hover{
+    transform: scale(1.5);
+}
+
+.k2{
+width: 360px;
+height: 400px;
+background: #E76F6F;
+border-radius: 20px;
+}
+.f2{
+    height: 250px;
+    width: 250px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+.k3{
+width: 360px;
+height: 400px;
+background: #E76F6F;
+border-radius: 20px;
+}
+.f3{
+    height: 250px;
+    width: 250px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.k4{
+width: 360px;
+height: 400px;
+background: #E76F6F;
+border-radius: 20px;
+}
+.f4{
+    height: 250px;
+    width: 250px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+.k5{
+width: 360px;
+height: 400px;
+background: #E76F6F;
+border-radius: 20px;
+}
+.f5{
+    height: 250px;
+    width: 250px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+.k6{
+width: 360px;
+height: 400px;
+background: #E76F6F;
+border-radius: 20px;
+
+}
+.f6{
+    height: 250px;
+    width: 250px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+.k7{
+width: 360px;
+height: 456px;
+background: #E76F6F;
+border-radius: 20px;
+}
+.f7{
+    height: 250px;
+    width: 250px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.k8{ 
+width: 360px;
+height: 400px;
+background: #E76F6F;
+border-radius: 20px;
+}
+.f8{
+    height: 250px;
+    width: 250px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+.k9{ 
+width: 360px;
+height: 400px;
+background: #E76F6F;
+border-radius: 20px;
+}
+.f9{
+    height: 250px;
+    width: 250px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.k10{
+width: 360px;
+height: 400px;
+background: #E76F6F;
+border-radius: 20px;}
+.f10{
+    height: 250px;
+    width: 250px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+.k11{
+width: 360px;
+height: 400px;
+background: #E76F6F;
+border-radius: 20px;
+}
+.f11{
+    height: 250px;
+    width: 250px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+.k12{
+width: 360px;
+height: 400px;
+background: #E76F6F;
+border-radius: 20px;
+}
+.f12{
+    height: 250px;
+    width: 250px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+.k13{
+width: 360px;
+height: 400px;
+background: #E76F6F;
+border-radius: 20px; 
+}
+.f13{
+    height: 250px;
+    width: 250px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+.k14{
+width: 360px;
+height: 400px;
+background: #E76F6F;
+border-radius: 20px;  
+}
+.f14{
+    height: 250px;
+    width: 250px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+.k15{
+width: 360px;
+height: 400px;
+background: #E76F6F;
+border-radius: 20px;
+}
+.f15{
+    height: 250px;
+    width: 250px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+.k16{
+width: 360px;
+height: 400px;
+background: #E76F6F;
+border-radius: 20px;
+
+
+}
+.f16{
+    height: 250px;
+    width: 250px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
