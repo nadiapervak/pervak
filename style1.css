@@ -1,0 +1,79 @@
+body {
+    font-family: pangolin;
+    background-color: rgba(250, 221, 221, 1);
+}
+header {
+    background: url("https://learn.logikaschool.com/uploads/student/1802227/661eacfbbb3e7.jpg");
+    height: 100vh;
+    background-size: cover ;
+    background-position: center;    
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+}
+header a{
+    font-size: 30px;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.locatiom{
+    text-align: center;
+}
+
+
+.adres{
+    text-align: center;
+}
+main{
+    background-color: rgba(250, 221, 221, 1);
+    font-size: 36px;
+}
+
+main img{
+width: 1296px;
+height: 761px;
+left: 211px;
+top: 1144px;
+}
+
+.f{
+  
+position: absolute;
+width: 562px;
+height: 567px;
+left: 25px;
+top: 1987px;
+}
+
+.s{
+position: absolute;
+width: 392px;
+height: 562px;
+left: 665px;
+top: 1984px;
+}
+
+.t{
+
+position: absolute;
+width: 457px;
+height: 547px;
+left: 1123px;
+top: 1975px;
+}
+
+.k::before{
+    content: url("https://learn.alg.academy/uploads/student/1802227/6627db9a07b26.png");
+    width: 45px;
+    height: 45px;
+}
+.k::after{
+    content: url("https://learn.alg.academy/uploads/student/1802227/6627db9a07b26.png");
+    width: 45px;
+    height: 45px;
+}
